@@ -2,7 +2,7 @@
 
 ## QA Process Flow
 
-
+<img src="qa-flow.png" width="900">
 
 Plataforma orientada a la aplicación integral de procesos de Quality Assurance sobre casos reales.
 
