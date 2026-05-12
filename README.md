@@ -2,7 +2,7 @@
 
 ## QA Process Flow
 
-<img src="https://raw.githubusercontent.com/Maru2121/qa-e2e-tech/main/images/qa-flow.png" width="900">
+
 
 Plataforma orientada a la aplicación integral de procesos de Quality Assurance sobre casos reales.
 
