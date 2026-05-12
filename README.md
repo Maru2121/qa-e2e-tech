@@ -1,5 +1,9 @@
 # QA E2E Tech
 
+## QA Process Flow
+
+![QA Flow](images/qa-flow.png)
+
 Plataforma orientada a la aplicación integral de procesos de Quality Assurance sobre casos reales.
 
 El proyecto presenta un recorrido estructurado de QA, desde el análisis de requerimientos hasta la decisión final de release, integrando negocio, validación funcional, experiencia de usuario y criterios de calidad basados en evidencia.
