@@ -98,5 +98,5 @@ El código fuente, arquitectura interna y activos del proyecto no se encuentran 
 
 Para consultas o colaboración profesional:
 
-- GitHub: https://github.com/Maru2121
+- GitHub: https://github.com/mariachiribao
 - LinkedIn: https://www.linkedin.com/in/maria-chiribao/
